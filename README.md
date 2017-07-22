@@ -9,8 +9,10 @@ XA_CleanInvalidChars() has been added to remove invalid characters in XML.
 
 ## Usage
 
-XA_Save("Array", Path) ; put variable name in quotes
-XA_Load(Path)          ; the name of the variable containing the array is returned
+```ahk
+    XA_Save("Array", Path) ; put variable name in quotes
+    XA_Load(Path)          ; the name of the variable containing the array is returned
+```
 
 ### AutoHotkey forum discussion
 
