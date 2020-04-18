@@ -7,6 +7,7 @@ XA was written by **trueski** and the original source can be found here http://w
 
 * XA_CleanInvalidChars() has been added to remove invalid characters in XML.
 * Note this is for **AutoHotkey UNICODE only**
+* A XA version compatible with AHK v2 can be found here https://www.autohotkey.com/boards/viewtopic.php?f=6&t=72997 
 
 ## Usage
 
